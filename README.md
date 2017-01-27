@@ -3,26 +3,26 @@
 # International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO or PoC or GTFO)
 
 ## 2013
-*[PoC||GTFO 0x00](pocorgtfo00.pdf), August 2013, _An epistle from the desk of Rt. Revd. Pastor Manul Laphroaig_ 
-*[PoC||GTFO 0x01](pocorgtfo01.pdf), October 2013, _An Epistle to the 10th H2HC in São Paulo, From the writing desk, not the raven, of Rt. Revd. Preacherman Pastor Manul Laphroaig_ ([spoiler](spoiler.md))
-*[PoC||GTFO 0x02](pocorgtfo02.pdf), December 2013, _Children's Bible Coloring Book of PoC||GTFO Issue 0x02, an Epistle to the 30th CCC Congress in Hamburg_ ([spoiler](spoiler02.md))
+* [PoC||GTFO 0x00](pocorgtfo00.pdf), August 2013, _An epistle from the desk of Rt. Revd. Pastor Manul Laphroaig_ 
+* [PoC||GTFO 0x01](pocorgtfo01.pdf), October 2013, _An Epistle to the 10th H2HC in São Paulo, From the writing desk, not the raven, of Rt. Revd. Preacherman Pastor Manul Laphroaig_ ([spoiler](spoiler.md))
+* [PoC||GTFO 0x02](pocorgtfo02.pdf), December 2013, _Children's Bible Coloring Book of PoC||GTFO Issue 0x02, an Epistle to the 30th CCC Congress in Hamburg_ ([spoiler](spoiler02.md))
 
 ## 2014
-*[PoC||GTFO 0x03](pocorgtfo03.pdf), March 2014, _An Address to the Secret Society of PoC||GTFO concerning the Gospel of the Weird Machines and also the Smashing of Idols to Bits and Bytes by the Rt. Revd. Dr. Pastor Manul Laphroaig_ ([spoiler](spoiler03.md))
-*[PoC||GTFO 0x04](pocorgtfo04.pdf), June 2014, _Tract de la Société Secrète de PoC||GTFO sur l'évangile des machines étranges et autres sujets techniques par le prédicateur Pasteur Manul Laphroaig_ ([spoiler](spoiler04.md))
-*[PoC||GTFO 0x05](pocorgtfo05.pdf), August 2014, _addressed to the INHABITANTS of EARTH on the following and other INTERESTING SUBJECTS written for the edification of ALL GOOD NEIGHBORS_ ([spoiler](spoiler05.md))
-*[PoC||GTFO 0x06](pocorgtfo06.pdf), November 2014, _PoC||GTFO brings that OLD TIMEY EXPLOITATION with a WEIRD MACHINE JAMBOREE and our world-famous FUNKY FILE FLEA MARKET not to be ironic, but because WE LOVE THE MUSIC!_
+* [PoC||GTFO 0x03](pocorgtfo03.pdf), March 2014, _An Address to the Secret Society of PoC||GTFO concerning the Gospel of the Weird Machines and also the Smashing of Idols to Bits and Bytes by the Rt. Revd. Dr. Pastor Manul Laphroaig_ ([spoiler](spoiler03.md))
+* [PoC||GTFO 0x04](pocorgtfo04.pdf), June 2014, _Tract de la Société Secrète de PoC||GTFO sur l'évangile des machines étranges et autres sujets techniques par le prédicateur Pasteur Manul Laphroaig_ ([spoiler](spoiler04.md))
+* [PoC||GTFO 0x05](pocorgtfo05.pdf), August 2014, _addressed to the INHABITANTS of EARTH on the following and other INTERESTING SUBJECTS written for the edification of ALL GOOD NEIGHBORS_ ([spoiler](spoiler05.md))
+* [PoC||GTFO 0x06](pocorgtfo06.pdf), November 2014, _PoC||GTFO brings that OLD TIMEY EXPLOITATION with a WEIRD MACHINE JAMBOREE and our world-famous FUNKY FILE FLEA MARKET not to be ironic, but because WE LOVE THE MUSIC!_
 
 ## 2015
-*[PoC||GTFO 0x07](pocorgtfo07.pdf), March 2015, _PoC||GTFO, CALISTHENICS & ORTHODONTIA in remembrance OF OUR BELOVED DR. DOBB because THE WORLD IS ALMOST THROUGH!_
-*[PoC||GTFO 0x08](pocorgtfo08.pdf), June 2015, _As exploits sit lonely, FORGOTTEN ON THE SHELF your friendly neighbors at PoC||GTFO proudly present PASTOR MANUL LAPHROAIG'S export-controlled CHURCH NEWSLETTER_
-*[PoC||GTFO 0x09](pocorgtfo09.pdf), September 2015, _PASTOR MANUL LAPHROAIG'S tabernacle choir SINGS REVERENT ELEGIES of the SECOND CRYPTO WAR_
+* [PoC||GTFO 0x07](pocorgtfo07.pdf), March 2015, _PoC||GTFO, CALISTHENICS & ORTHODONTIA in remembrance OF OUR BELOVED DR. DOBB because THE WORLD IS ALMOST THROUGH!_
+* [PoC||GTFO 0x08](pocorgtfo08.pdf), June 2015, _As exploits sit lonely, FORGOTTEN ON THE SHELF your friendly neighbors at PoC||GTFO proudly present PASTOR MANUL LAPHROAIG'S export-controlled CHURCH NEWSLETTER_
+* [PoC||GTFO 0x09](pocorgtfo09.pdf), September 2015, _PASTOR MANUL LAPHROAIG'S tabernacle choir SINGS REVERENT ELEGIES of the SECOND CRYPTO WAR_
 
 ## 2016
-*[PoC||GTFO 0x10](pocorgtfo10.pdf), January 2016, _IN THE THEATER OF LITERATE DISASSEMBLY, PASTOR MANUL LAPHROAIG AND HIS MERRY BAND OF REVERSE ENGINEERS LIFT THE WELDED HOOD FROM THE ENGINE THAT RUNS THE WORLD!_
-*[PoC||GTFO 0x11](pocorgtfo11.pdf), March 2016, _IN A FIT OF STUBBORN OPTIMISM, PASTOR MANUL LAPHROAIG AND HIS CLEVER CREW SET SAIL TOWARD WELCOMING SHORES OF THE GREAT UNKNOWN!_
-*[PoC||GTFO 0x12](pocorgtfo12.pdf), June 2016, _COLLECTING BOTTLES OF BROKEN THINGS, PASTOR MANUL LAPHROAIG WITH THEORY AND PRAXIS COULD BE THE MAN WHO SNEAKS A LOOK BEHIND THE CURTAIN!_
-*[PoC||GTFO 0x13](pocorgtfo13.pdf), October 2016, _PASTOR LAPHROAIG'S MERCY SHIP HOLDS STONES FROM THE IVORY TOWER, BUT ONLY AS BALLAST!_
+* [PoC||GTFO 0x10](pocorgtfo10.pdf), January 2016, _IN THE THEATER OF LITERATE DISASSEMBLY, PASTOR MANUL LAPHROAIG AND HIS MERRY BAND OF REVERSE ENGINEERS LIFT THE WELDED HOOD FROM THE ENGINE THAT RUNS THE WORLD!_
+* [PoC||GTFO 0x11](pocorgtfo11.pdf), March 2016, _IN A FIT OF STUBBORN OPTIMISM, PASTOR MANUL LAPHROAIG AND HIS CLEVER CREW SET SAIL TOWARD WELCOMING SHORES OF THE GREAT UNKNOWN!_
+* [PoC||GTFO 0x12](pocorgtfo12.pdf), June 2016, _COLLECTING BOTTLES OF BROKEN THINGS, PASTOR MANUL LAPHROAIG WITH THEORY AND PRAXIS COULD BE THE MAN WHO SNEAKS A LOOK BEHIND THE CURTAIN!_
+* [PoC||GTFO 0x13](pocorgtfo13.pdf), October 2016, _PASTOR LAPHROAIG'S MERCY SHIP HOLDS STONES FROM THE IVORY TOWER, BUT ONLY AS BALLAST!_
 
 An analysis of growth of PoC||GTFO vs. issue number can be found at [Solar Designer's mirror](http://openwall.info/wiki/people/solar/pocorgtfo) - prepare for a 3.5GB to 56TB issue 0x10…
 
