@@ -4,7 +4,7 @@
 
 ## 2013
 * [PoC||GTFO 0x00](pocorgtfo00.pdf), August 2013, _An epistle from the desk of Rt. Revd. Pastor Manul Laphroaig_ 
-* [PoC||GTFO 0x01](pocorgtfo01.pdf), October 2013, _An Epistle to the 10th H2HC in São Paulo, From the writing desk, not the raven, of Rt. Revd. Preacherman Pastor Manul Laphroaig_ ([spoiler](spoiler.md))
+* [PoC||GTFO 0x01](pocorgtfo01.pdf), October 2013, _An Epistle to the 10th H2HC in São Paulo, From the writing desk, not the raven, of Rt. Revd. Preacherman Pastor Manul Laphroaig_ ([spoiler](spoiler01.md))
 * [PoC||GTFO 0x02](pocorgtfo02.pdf), December 2013, _Children's Bible Coloring Book of PoC||GTFO Issue 0x02, an Epistle to the 30th CCC Congress in Hamburg_ ([spoiler](spoiler02.md))
 
 ## 2014
